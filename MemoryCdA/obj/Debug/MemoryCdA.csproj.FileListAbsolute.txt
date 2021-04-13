@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\MemoryCdA\MemoryCdA\bin\Debug\MemoryCdA.exe.config
+C:\Users\user\source\repos\MemoryCdA\MemoryCdA\bin\Debug\MemoryCdA.exe
+C:\Users\user\source\repos\MemoryCdA\MemoryCdA\bin\Debug\MemoryCdA.pdb
+C:\Users\user\source\repos\MemoryCdA\MemoryCdA\obj\Debug\MemoryCdA.csprojAssemblyReference.cache
+C:\Users\user\source\repos\MemoryCdA\MemoryCdA\obj\Debug\MemoryCdA.Form1.resources
+C:\Users\user\source\repos\MemoryCdA\MemoryCdA\obj\Debug\MemoryCdA.Properties.Resources.resources
+C:\Users\user\source\repos\MemoryCdA\MemoryCdA\obj\Debug\MemoryCdA.csproj.GenerateResource.cache
+C:\Users\user\source\repos\MemoryCdA\MemoryCdA\obj\Debug\MemoryCdA.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MemoryCdA\MemoryCdA\obj\Debug\MemoryCdA.exe
+C:\Users\user\source\repos\MemoryCdA\MemoryCdA\obj\Debug\MemoryCdA.pdb
